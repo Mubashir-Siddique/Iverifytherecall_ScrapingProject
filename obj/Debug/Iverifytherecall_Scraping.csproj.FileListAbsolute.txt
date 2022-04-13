@@ -1,0 +1,10 @@
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Iverifytherecall_Scraping\bin\Debug\Iverifytherecall_Scraping.exe.config
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Iverifytherecall_Scraping\bin\Debug\Iverifytherecall_Scraping.exe
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Iverifytherecall_Scraping\bin\Debug\Iverifytherecall_Scraping.pdb
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Iverifytherecall_Scraping\bin\Debug\HtmlAgilityPack.dll
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Iverifytherecall_Scraping\bin\Debug\HtmlAgilityPack.pdb
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Iverifytherecall_Scraping\bin\Debug\HtmlAgilityPack.xml
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Iverifytherecall_Scraping\obj\Debug\Iverifytherecall_Scraping.csprojAssemblyReference.cache
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Iverifytherecall_Scraping\obj\Debug\Iverifytherecall_Scraping.csproj.CopyComplete
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Iverifytherecall_Scraping\obj\Debug\Iverifytherecall_Scraping.exe
+D:\Work Space\CellshopperScrapingTask\CellshopperScrapingTask\Iverifytherecall_Scraping\obj\Debug\Iverifytherecall_Scraping.pdb
